@@ -1,32 +1,28 @@
 # Sistema de Ventas para Supermercado
 
-## Descripción
+## Integrante
+- Jhoan Burbano
 
-Este proyecto consiste en el desarrollo de un sistema de ventas para un supermercado, implementado en Python. El sistema permitirá registrar productos, calcular el total de la compra y procesar el pago del cliente mediante un menú interactivo.
-
-## Objetivo
-
-Desarrollar una aplicación que simule el funcionamiento básico de una caja registradora utilizando estructuras de programación vistas en la asignatura.
+## Objetivo del sistema
+Desarrollar un sistema de ventas para un supermercado utilizando Python. El programa permite administrar un carrito de compras, calcular el total de la compra y procesar el pago del cliente mediante un menú interactivo.
 
 ## Funcionalidades
 
-- Mostrar productos disponibles.
-- Agregar productos al carrito.
-- Mostrar el carrito de compras.
+- Mostrar la lista de productos disponibles.
+- Agregar productos al carrito de compras.
+- Visualizar los productos agregados al carrito.
 - Eliminar productos del carrito.
-- Calcular subtotal, IVA y total.
-- Procesar el pago y calcular el cambio.
-- Salir del sistema.
+- Calcular el subtotal, IVA (15%) y total de la compra.
+- Procesar el pago del cliente.
+- Calcular y mostrar el cambio.
+- Vaciar el carrito después de finalizar la compra.
 
-## Herramientas utilizadas
+## Tecnologías utilizadas
 
-- Python
+- Python 3
 - Visual Studio Code
+- Git
 - GitHub
-
-## Autor
-
-Jhoan Burbano
 
 ## Fecha
 
