@@ -23,6 +23,7 @@ Desarrollar un sistema de ventas para un supermercado utilizando Python. El prog
 - Visual Studio Code
 - Git
 - GitHub
+- Lucidchart
 
 ## Fecha
 
